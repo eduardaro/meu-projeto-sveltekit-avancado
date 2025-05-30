@@ -1,7 +1,7 @@
 <footer class="d-flex justify-content-between align-items-center py-1 mt-auto border-top">
     <p class="mb-0 text-body-secondary">&copy; 2024 Company, Inc</p>
 
-    <a href="/"> <img src="/favicon.png" alt="logo" style="height: 2em" /> </a>
+    <i class="bi bi-moon-stars"></i>
 
     <ul class="nav">
         <li class="nav-item"><a href="https://www.facebook.com/tl.ifms" target="_blank" class="nav-link px-2 text-body-secondary" aria-label="facebook"><i class="bi bi-facebook"></i></a></li>
