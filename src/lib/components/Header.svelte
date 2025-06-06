@@ -1,7 +1,3 @@
-<script>
-	let { user } = $props();
-</script>
-
 <header class="navbar navbar-expand-lg bg-body-tertiary">
 	<button class="navbar-toggler d-lg-none" data-bs-toggle="offcanvas" data-bs-target="#mySideBar" aria-label="toggleSidebar">
 		<i class="bi bi-list"></i>
